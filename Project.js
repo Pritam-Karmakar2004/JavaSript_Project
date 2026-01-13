@@ -17,6 +17,9 @@ button.forEach(function(button){
          if(e.target.id === "white"){
             body.style.backgroundColor=e.taeget.id
         }
+           if(e.target.id === "white"){
+            body.style.backgroundColor=e.taeget.id
+        }
     })
     
 })
