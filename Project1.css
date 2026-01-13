@@ -1,4 +1,4 @@
-/* html{
+html{
     margin: 0;
     box-sizing: border-box;
 }
@@ -77,12 +77,12 @@ h1{
 
 #blue{
     background-color: blue;
-} */
+}
 
 
 
 
-
+/* 
 html {
   margin: 0;
 }
@@ -96,7 +96,7 @@ span {
   text-align: center;
 } */
 
-.button {
+/* .button {
   width: 100px;
   height: 100px;
   border: solid black 2px;
@@ -115,4 +115,4 @@ span {
 }
 #yellow {
   background: yellow;
-}
+} */ 
